@@ -37,11 +37,11 @@ I think an interesting comparison would have been between the two sites because 
 
 ### Results 
 
-Of the seeds which the mouse lemurs dispersed, 17% were non-native species. It is important to recognize this because of the potential of seed disperers to aid in the disemination of non-native or invasive species and permenatly alter forest community struture. The researchers found significance for some of the growth parameters in some of the experiments but not all of them. I will discuss these results below in the replication. 
+Of the seeds which the mouse lemurs dispersed, 17% were non-native species. The researchers found significance for some of the growth parameters in some of the experiments but not all of them. I will discuss these results below in the replication. 
 
 ### Discussion 
 
-The discussion again emphasizes the importnace of seed dispersal and recognizes that some species which are dispersed by mouse lemurs are seen in the literature to be dispersed by other species of primates and birds yet other plant species are not known to be dispersed by any other animals in the area. ... not done yet ...
+The discussion again emphasizes the importance of seed dispersal and recognizes that some species which are dispersed by mouse lemurs are seen in the literature to be dispersed by other species of primates and birds yet other plant species are not known to be dispersed by any other animals in the area. The results in their paper are consistent with larger findings in the literature that digestion through animals assist in seed germination compared to control seeds, but they critize themselves by stating that their sample size for control seeds was low compared to defecated ones. The authors discuss how seed dispersal of non-native plants has been shown to assist in invasive species invasion of tropical forest. Concerningly, they point to one plant, soap bush (*Clidemia hirta*) which is dispersed by *Microcebus jollyae* has been shown to be invasive in the literature. Given the sucessful results of the semi-shaded plot experiment and *M. jollyae*'s inhabitance of a fragmented and degraded forest, ... not done yet ...
 
 ## Data set-up
 
@@ -1290,7 +1290,7 @@ This is the original table.
 
 <br><br>
 
-The End!
+## The End!
 
 <br><br>
 
