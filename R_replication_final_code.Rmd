@@ -17,8 +17,31 @@ Today, I will be discussing my attempts to replicate "The role of nocturnal omni
 
 <br> 
 
-So, I moved on to the next paper anticipating less problems. The paper Ramananjato et al. 2020 analyzes the role of two species of mouse lemur, *Microcebus rufus* and *Microcebus jollyae*, in seed dispersal in Madagascar's forest. The researchers collected seeds which had been defecated by mouse lemurs and seeds which had fallen on the ground them subjected them to various growth experiments. For *Microcebus rufus*, one experiment looked at seed growth in a petri dish setting and the other looked at seed growth on the forest ground. For *Microcebus jollyae*, experiments were conducted in a petri dish, in a semi-shaded plot and a shaded plot. From these experiments, the researchers compared germination rate, germination time and seedling length after a certain period of time between defecated and control seeds using mixed effect models and survival analysis. 
+So, I moved on to the next paper anticipating less problems. The paper Ramananjato et al. 2020 analyzes the role of two species of mouse lemur, *Microcebus rufus* and *Microcebus jollyae*, in seed dispersal in Madagascar's forest. The researchers collected seeds, some which had been defecated by mouse lemurs and others which had been extracted from fresh fruits and subjected them to various growth experiments. For *Microcebus rufus*, one experiment looked at seed growth in a petri dish setting and the other looked at seed growth on the forest ground. For *Microcebus jollyae*, experiments were conducted in a petri dish, in a semi-shaded plot and a shaded plot. From these experiments, the researchers compared germination rate, germination time and seedling length after a certain period of time between defecated and control seeds using mixed effect models and survival analysis. 
 
+## Ramananjato *et al.* 2020
+
+### Introduction 
+
+The authors begin with a discussion of seed dispersal as an important ecological process. Seed dispersal is implicated in forest regeneration and plant community maintianance both important for the continued existence of forest and their biodiversity. The authors point out that while the role of large diurnal herbivores in seed dispersal is commonly studied, the role of small nocturnal omnivores is also important ecologically. In fact, since the foraging behavior of omnivores is different from frugivores (ex. traveling further) it might be important in a different way. So even if most of the seed dispersal is done by large herbivores, the small contributions made by omnivores may have an outsized effect. 
+
+Firstly, I am glad the authors discuss extensivly the importance of seed dispersal. It is foundational in ecology and should be paid more attention to in primatology. I am also happy that the I also appreciate the author's attention to the novelty of this study. It is no secret in primatology that small bodied and nocturnal primates are studied much less than large bodied diurnal ones. I agree that studying small bodied and nocturnal primate seed dispersal is important. I also found the argument that the omnivorous foraging behavior compelling and worth investiagation. 
+
+### Methods
+
+The mouse lemurs were studied in two sites, Ranomafana National Park which is more prestine and Kianjavato Classified Forest which is fragmented and degraded. Two species, *Microcebus rufus* and *Microcebus jollyae* were studied in the two sites. Most of the *M. rufus* population was found in Ranomafana National Park  while most of the *M jollyae* forest was found in Kianjavato Classified Forest. To collect the seeds, the researchers set up transects and set traps to capture mouse lemurs. Researches then returned to the traps and hoped to find a mouse lemur who had defecated. Assuming one was found, they were released and the the feces was collected. 
+
+After collection seeds were identified and subjected to various growth experiments. For *Microcebus rufus*, one experiment looked at seed growth in a petri dish setting and the other looked at seed growth on the forest ground. For *Microcebus jollyae*, experiments were conducted in a petri dish, in a semi-shaded plot and a shaded plot. From these experiments, the researchers compared germination rate, germination time and seedling length after a certain period of time between defecated and control seeds using mixed effect models and survival analysis. 
+
+I think an interesting comparison would have been between the two sites because one was a fragmented forest and one was a intact. Unfortunatly this was probably not possible because of the different species make-up of the forest. Also, it is possible this experiment could have been done non-invasively by following mouse lemurs until they defecated. Although, this is complicated by their small bodies and their nocturnal behavior. 
+
+### Results 
+
+Of the seeds which the mouse lemurs dispersed, 17% were non-native species. It is important to recognize this because of the potential of seed disperers to aid in the disemination of non-native or invasive species and permenatly alter forest community struture. The researchers found significance for some of the growth parameters in some of the experiments but not all of them. I will discuss these results below in the replication. 
+
+### Discussion 
+
+The discussion again emphasizes the importnace of seed dispersal and recognizes that some species which are dispersed by mouse lemurs are seen in the literature to be dispersed by other species of primates and birds yet other plant species are not known to be dispersed by any other animals in the area. ... not done yet ...
 
 ## Data set-up
 
